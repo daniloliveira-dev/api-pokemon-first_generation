@@ -1,0 +1,9 @@
+{
+    "author": "api-pokemon",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+
+}
